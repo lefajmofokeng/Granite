@@ -4,6 +4,8 @@
 
 **Granite** is a sophisticated dual-image hero component with integrated metrics, designed for conference websites, community platforms, and event landing pages. Featuring overlapping imagery with a bold central badge, this component creates visual impact while clearly communicating key metrics and value propositions.
 
+<img width="1606" height="876" alt="_C__Users_STUDENT_Desktop_Projects_Granite_index html" src="https://github.com/user-attachments/assets/e57548a1-80a5-4130-b664-494e64f0821b" />
+
 ## Live Demo
 
 [View Live Demo](https://thisislefa.github.io/Granite/)
@@ -337,3 +339,4 @@ Granite is released under the MIT License, allowing free use, modification, and 
 ---
 
 *Granite provides a production-ready hero component that combines visual storytelling with clear value communication, making it ideal for event marketing, community platforms, and corporate landing pages.*
+
